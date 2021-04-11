@@ -1,0 +1,5 @@
+f:\lr scripts\mlesson3_5\\pre_cci.c: Action.c:5: warning: expression with no effect elided
+f:\lr scripts\mlesson3_5\\pre_cci.c: Action1.c:6: warning: unrecognized character escape sequence `\;'
+f:\lr scripts\mlesson3_5\\pre_cci.c: Action1.c:6: warning: unrecognized character escape sequence `\&'
+f:\lr scripts\mlesson3_5\\pre_cci.c: Action1.c:6: warning: unrecognized character escape sequence `\;'
+f:\lr scripts\mlesson3_5\\pre_cci.c: Action1.c:22: warning: unrecognized character escape sequence `\.'
